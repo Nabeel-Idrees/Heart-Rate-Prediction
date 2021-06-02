@@ -1,5 +1,4 @@
-# Heart-Rate-Prediction
-Heart Rate Prediction - Deep Learning based Image Processing
+# Heart Rate Prediction - Deep Learning based Image Processing
 Photoplethysmography is a heart rate monitoring technique used to estimate a person’s heart
 pulse by analyzing the light intensity changes as and when the blood volume changes with each
 pump of the heart. The system uses wearable sensors that have light source and photodetectors
